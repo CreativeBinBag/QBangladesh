@@ -72,7 +72,7 @@ Here is our master list of curated resources. We've added our own notes to help 
 
   - **Description:** A series of hands-on workshops using Jupyter notebooks. QBronze is the world's most popular "first-time" quantum programming workshop.
   - **Audience:** Beginner to Intermediate
-  - **Link:** [QBronze (Qiskit)](https://gitlab.com/qworld/bronze-qiskit), [QSilver](https://gitlab.com/qworld/silver), [QNickel (QML)](https://gitlab.com/qworld/nickel)
+  - **Link:** [QBronze (Qiskit)](https://gitlab.com/qworld/bronze-qiskit), [QSilver](https://gitlab.com/qworld/silver), [QNickel](https://gitlab.com/qworld/nickel)
 
 - **Quantum Machine Learning by QPoland + QAI Foundation**
   - **Description:** An excellent project-based introduction to the fundamentals of Quantum Machine Learning using PennyLane and PyTorch.
