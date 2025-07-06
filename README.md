@@ -10,7 +10,7 @@
   <a href="https://github.com/CreativeBinBag/QBangladesh/graphs/contributors"><img src="https://img.shields.io/github/contributors/CreativeBinBag/QBangladesh" alt="Contributors"></a>
 </p>
 
-Welcome! This is a curated launchpad into the fascinating world of Quantum Computing and Quantum Information. While our name is **QBangladesh**, our mission is global: to provide the best, most accessible learning resources to anyone, anywhere.
+Welcome! This is a curated launchpad into the fascinating world of Quantum Computing and Quantum Information. **QBangladesh's** mission is to provide the best, most accessible learning resources to anyone, anywhere.
 
 The resources are primarily in English, the current language of science, to connect you with the global quantum community. We will add Bangla context and summaries where possible to make learning even easier!
 
