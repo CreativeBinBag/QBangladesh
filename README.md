@@ -1,10 +1,13 @@
 # ⚛️ QBangladesh - Your Quantum Journey Starts Here
 
 <p align="center">
-  <img src="qbangladesh-logo.png" alt="Logo">
-  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
-  <img src="https://img.shields.io/github/stars/YourUsername/QBangladesh?style=social" alt="Stars">
-  <img src="https://img.shields.io/github/contributors/YourUsername/QBangladesh" alt="Contributors">
+  <img src="assets/qbangladesh-logo.png" alt="QBangladesh Logo" width="600">
+</p>
+
+<p align="center">
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
+  <a href="https://github.com/CreativeBinBag/QBangladesh/stargazers"><img src="https://img.shields.io/github/stars/CreativeBinBag/QBangladesh?style=social" alt="Stars"></a>
+  <a href="https://github.com/CreativeBinBag/QBangladesh/graphs/contributors"><img src="https://img.shields.io/github/contributors/CreativeBinBag/QBangladesh" alt="Contributors"></a>
 </p>
 
 Welcome! This is a curated launchpad into the fascinating world of Quantum Computing and Quantum Information. While our name is **QBangladesh**, our mission is global: to provide the best, most accessible learning resources to anyone, anywhere.
