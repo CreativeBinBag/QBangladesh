@@ -1,7 +1,7 @@
 # ⚛️ QBangladesh - Your Quantum Journey Starts Here
 
 <p align="center">
-  <img src="assets/qbangladesh-logo.png" alt="QBangladesh Logo" width="600">
+  <img src="qbangladesh-logo.png" alt="QBangladesh Logo" width="600">
 </p>
 
 <p align="center">
