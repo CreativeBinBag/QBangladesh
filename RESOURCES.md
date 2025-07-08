@@ -11,7 +11,8 @@ Here is our master list of curated resources. We've added our own notes to help 
 5.  [🔬 Specialized & Advanced Topics](#5--specialized--advanced-topics)
 6.  [🎓 Summer Schools & Event Series](#6--summer-schools--event-series)
 7.  [📜 Key Research Papers](#7--key-research-papers)
-
+   
+Note: We’re not adding direct links to the books here due to copyright restrictions. But with a little digging, you’ll find they’re available for free online. Or just shoot an email to qbangladesh25@gmail.com or nafisashamim1999@gmail.com, and we’ll send you the full PDF!
 ---
 
 ### 1. 🧮 Mathematical Prerequisites
