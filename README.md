@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
+  <a href="https://github.com/CreativeBinBag/QBangladesh/stargazers"><img src="https://img.shields.io/github/stars/CreativeBinBag/QBangladesh?style=social" alt="Stars"></a>
   <a href="https://github.com/CreativeBinBag/QBangladesh/graphs/contributors"><img src="https://img.shields.io/github/contributors/CreativeBinBag/QBangladesh" alt="Contributors"></a>
 </p>
 
