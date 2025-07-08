@@ -95,7 +95,7 @@ Here is our master list of curated resources. We've added our own notes to help 
 
   - **Description:** The book on ZX-Calculus, a powerful graphical language for reasoning about quantum circuits and computation. A must for those interested in quantum compilation.
   - **Audience:** Advanced
-  - **Link:** [Official Book Website (with free PDF)](https://zxcalculus.com/)
+  - **Link:** [Official Book Website](https://zxcalculus.com/)
 
 - **Topological Quantum: Lecture Notes** by Steven H. Simon
   - **Description:** Superb lecture notes on topological quantum computation, the basis for some of the most promising fault-tolerant quantum computer architectures.
