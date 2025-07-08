@@ -1,4 +1,4 @@
-# 📚 The QBangladesh Resource Library
+# 📚 QBangladesh Resource Library
 
 Here is our master list of curated resources. We've added our own notes to help you choose what's right for you.
 
