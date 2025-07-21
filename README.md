@@ -1,8 +1,5 @@
-# ⚛️ QBangladesh - Your Quantum Journey Starts Here
+# ⚛️ Your Quantum Journey Starts Here
 
-<p align="center">
-  <img src="assets/qbangladesh-logo.png" alt="QBangladesh Logo" width="600">
-</p>
 
 <p align="center">
   <a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
